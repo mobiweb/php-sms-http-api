@@ -2,6 +2,7 @@
 ============
 This repository is no longer supported as the SMS API is discontinued. Please consider using the SDK of the new SMS API with [mobiweb/mobiweb-php][mobiwebphp] instead.
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Waiver:
 ============
